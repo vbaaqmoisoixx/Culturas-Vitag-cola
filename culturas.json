@@ -8,7 +8,7 @@
         "imagem": "./assets/arabica.webp"
       },
       {
-        "nome": "Tomates",
+        "nome": "Tomate",
         "imagem": "./assets/tomate.webp"
       },
       {
@@ -28,11 +28,11 @@
         "imagem": "./assets/milho.webp"
       },
       {
-        "nome": "Mamãos",
+        "nome": "Mamão",
         "imagem": "./assets/mamao.webp"
       },
       {
-        "nome": "Cacaus",
+        "nome": "Cacau",
         "imagem": "./assets/cacau.webp"
       },
       {
@@ -48,7 +48,7 @@
         "imagem": "./assets/repolho.webp"
       },
       {
-        "nome": "Couve-flores",
+        "nome": "Couves-flores",
         "imagem": "./assets/couve-flor.webp"
       },
       {
