@@ -70,5 +70,9 @@
       {
         "nome": "Feijão",
         "imagem": "./assets/feijao.webp"
+      },
+      {
+        "nome": "Tangerinas Ponkan",
+        "imagem": "./assets/ponkan.webp"
       }
 ]
